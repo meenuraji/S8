@@ -8,7 +8,7 @@ we used dataloader, datatransform, modelstats and model trainer from google driv
 
 we changed the code to increase the accuracy by adding softmax https://github.com/meenuraji/S8/tree/master/resnetmodel
 
-We changed the code to replace FC layer to point wise convolution layer [https://github.com/DrVenkataRajeshKumar/S8/blob/master/rn.py]
+We changed the code to replace FC layer to point wise convolution layer https://github.com/meenuraji/S8/tree/master/resnet
 
 we got 85% accuracy at 8th EPOCH and 90% accuracy at 13th EPOCH
 
