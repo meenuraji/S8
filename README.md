@@ -6,7 +6,7 @@ we separated the ResNet code files and saved in google drive as resnetmodel, and
 
 we used dataloader, datatransform, modelstats and model trainer from google drive library created for S7 assignment.
 
-we changed the code to increase the accuracy by adding softmax [https://github.com/DrVenkataRajeshKumar/S8/blob/master/resnetmodel.py]
+we changed the code to increase the accuracy by adding softmax https://github.com/meenuraji/S8/tree/master/resnetmodel
 
 We changed the code to replace FC layer to point wise convolution layer [https://github.com/DrVenkataRajeshKumar/S8/blob/master/rn.py]
 
